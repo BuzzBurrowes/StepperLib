@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map For StepperLib
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+AcceleratingStepperController	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+SetBalistics	KEYWORD2
+SetHome	KEYWORD2
+AtHome	KEYWORD2
+SetTarget	KEYWORD2
+AtTarget	KEYWORD2
+Step	KEYWORD2
+Rest	KEYWORD2
+CurrentPosition	KEYWORD2
+TargetPosition	KEYWORD2
+GetFractionalStepInMove	KEYWORD2
+GetStepInMove KEYWORD2
+Poll	KEYWORD2
+MakeNextStepInMove	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+ 
+kMantissa	LITERAL1
